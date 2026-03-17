@@ -1,8 +1,6 @@
-# Hi, I'm Xiaorui (Frida) Liu
+# Hi, I'm Xiaorui Liu
 
-**Graduate Student** building at the intersection of **AI/ML**, **high-performance computing**, and **full-stack engineering**.
-
-I design systems that span the entire stack — from hand-written CUDA kernels on A100 GPUs to cloud-deployed web services, from training LLMs from scratch to building natural language interfaces for DeFi protocols.
+**Machine learning engineer, MSIS@NEU** building at the intersection of **AI/ML**, **high-performance computing**, **self-improving agent** and **full-stack engineering**.
 
 ---
 
@@ -19,7 +17,7 @@ I design systems that span the entire stack — from hand-written CUDA kernels o
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**AI / ML**
+**ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -27,14 +25,14 @@ I design systems that span the entire stack — from hand-written CUDA kernels o
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-000000?style=flat&logoColor=white)
 
-**HPC / Systems**
+**Systems**
 
 ![NVSHMEM](https://img.shields.io/badge/NVSHMEM-76B900?style=flat&logo=nvidia&logoColor=white)
 ![MPI](https://img.shields.io/badge/MPI-0078D4?style=flat&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Modal](https://img.shields.io/badge/Modal-000000?style=flat&logoColor=white)
 
-**Web / Cloud**
+**Web**
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
