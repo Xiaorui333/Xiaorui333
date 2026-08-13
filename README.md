@@ -1,6 +1,8 @@
 # Hi, I'm Xiaorui Liu
 
-**Machine learning engineer, MSIS@NEU** building at the intersection of **AI/ML**, **high-performance computing**, **self-improving agent** and **full-stack engineering**.
+**Supply chain engineer** — 5+ years in global sourcing, procure-to-pay, logistics, and NPI across Asia-based manufacturing, now building the **AI/ML** and **high-performance computing** systems that supply chains will run on.
+
+PMP® certified · MS Information Systems @ Northeastern · MS Mechanical Engineering · fluent English / Mandarin
 
 ---
 
